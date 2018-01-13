@@ -6,7 +6,7 @@ permalink:  why_did_you_decide_to_learn_software_development
 ---
 
 
-This is the first thing I write here and I am not very sure where it will be posted. Keep hope in the right place :-)
+This is the first thing I write here and I am not very sure where it will be posted. Keep hope in the right place :-)  ->
 
 Well,  I really like to learn a lot of stuffs not only software development. Actually I have a bachellor in Marketing and have studied visual design. 
 
