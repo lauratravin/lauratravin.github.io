@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Things that struggle me the most about learning a computer language"
-date:       2018-01-29 21:29:32 +0000
+date:       2018-01-29 16:29:33 -0500
 permalink:  things_that_struggle_me_the_most_about_learning_a_computer_language
 ---
 
