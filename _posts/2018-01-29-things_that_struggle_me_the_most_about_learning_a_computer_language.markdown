@@ -22,8 +22,7 @@ This is really a headache and make me so many times wasted hours trying to disco
 
 I wonder if I am the only one…..
 
-![cat](htts:/lauratravin.com/learnco/car2.jpg)
-
+ ![cat_code](http://www.lauratravin.com/learnco/car2.jpg)
 
 
 
