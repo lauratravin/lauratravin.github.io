@@ -6,9 +6,10 @@ permalink:  performing_kittens
 ---
 
 
-Hello! I decided to show you how I created my ruby final project about kittens, I will try to make it easy to understand, not too much technicist view and quick reading.
+Hello! I decided to show you how I created my ruby final project about kittens, I know there is more interesting posts outhere from people with better level but I hope may I can help somebody in my same level and with cat love and good humor.
 
-No kitten was harmed during the process and please remember to adopt or save a kitten no matter her/his breed.
+I will try to make it easy to understand, not too much technicist view and fast reading. 
+
 
 Since I am a visual designer I want to explain my project with images for make it more fun and easier.
 
@@ -52,9 +53,10 @@ But supposing the user choose between 1 or 2 option first, these options would b
 
 You can find my code [here](https://github.com/lauratravin/CLIFP-Kitty/)  here and see how I implemented my kitties.
 
+No kitten was harmed during the process and please remember to adopt or save a kitten no matter her/his breed.
 Follow my kittens @tituneskittens
 
-![kitty](https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif)
+![kitty](http://www.redhikari.com/clients/learnco/pinkkitty.gif)
 
 
 
