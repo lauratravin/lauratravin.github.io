@@ -52,6 +52,8 @@ But supposing the user choose between 1 or 2 option first, these options would b
 
 You can find my code [here](https://github.com/lauratravin/CLIFP-Kitty/)  here and see how I implemented my kitties.
 
+Follow my kittens @tituneskittens
+
 ![kitty](https://gph.is/1ULUxvz)
 
 
