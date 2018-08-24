@@ -46,4 +46,4 @@ You can find my code here here and see how I implemented my kitties.
 
 No kitten was harmed during the process and please remember to adopt or save a kitten no matter her/his breed. Follow Follow my kittens [@tituneskittens](http://www.instagram.com/tituneskittens)
 
-![kitty](http://www.redhikari.com/clients/learnco/pinkkitty.gif)
+![kitty](http://www.redhikari.com/clients/learnco/pinkkitty.GIF)
