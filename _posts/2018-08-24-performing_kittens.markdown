@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "PERFORMING KITTENS"
-date:       2018-08-24 04:34:09 +0000
+date:       2018-08-24 00:34:10 -0400
 permalink:  performing_kittens
 ---
 
