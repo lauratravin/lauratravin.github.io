@@ -50,7 +50,7 @@ With this solution, I have 50% of chances of  user choosing a report (option 3 a
 
 But supposing the user choose between 1 or 2 option first, these options would be filling and completing the class Breed. If after the user choose option  3 or 4 from the menu,  less websites are required to be open.
 
-You can find my code [here](https://github.com/lauratravin/CLIFP-Kitty/)  here and see how I implemented this.
+You can find my code [here](https://github.com/lauratravin/CLIFP-Kitty/)  here and see how I implemented my kitties.
 
 
 
