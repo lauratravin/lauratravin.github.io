@@ -13,5 +13,5 @@ Since I am a visual designer I want to explain my project with images for make i
 
 The site I scrapped is  [here](http://www.vetstreet.com/cats/breeds) .
 
-![image1](http://www.redhikari.com/clients/learnco/Project_Kitties_RubyGEM_-_Google_Slides.jpg)
+![image1](http://www.redhikari.com/clients/learnco/Project1.jpg)
 
