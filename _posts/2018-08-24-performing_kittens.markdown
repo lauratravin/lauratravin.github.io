@@ -13,9 +13,15 @@ Since I am a visual designer I want to explain my project with images for make i
 
 The site I scrapped is  [here](http://www.vetstreet.com/cats/breeds) .
 
+ I manage my model in this way. Just tree basics classes.
+
 ![image1](http://www.redhikari.com/clients/learnco/Project1.jpg)
 
+
+And my CLI has this behavier.
+
 ![image2](http://www.redhikari.com/clients/learnco/Project2.jpg)
+
 
 
 ![image3](http://www.redhikari.com/clients/learnco/Project3.jpg)
