@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Poor specifications poor coding."
-date:       2018-02-03 23:37:34 +0000
+date:       2018-02-03 18:37:35 -0500
 permalink:  poor_specifications_poor_coding
 ---
 
@@ -23,11 +23,11 @@ I really think that when you create some content to teach someone something  you
 
 This is generally speaking but for project labs I love to have a nice pseudocode to follow or to explain the logic to others.
 
-![visual](http://www.lauratravin.com/learnco/Visual.jpg)
+![visual](http://www.redhikari.com/clients/learnco/Visual.jpg)
 
 Something easy than even a kitten can undertand.
 
-![visual](http://www.lauratravin.com/learnco/cat3.jpg)
+![visual](http://www.redhikari.com/clients/learnco/cat3.jpg)
 
 
 
