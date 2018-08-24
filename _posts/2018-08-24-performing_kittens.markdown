@@ -56,7 +56,7 @@ You can find my code [here](https://github.com/lauratravin/CLIFP-Kitty/)  here a
 No kitten was harmed during the process and please remember to adopt or save a kitten no matter her/his breed.
 Follow my kittens @tituneskittens
 
-![kitty](http://www.redhikari.com/clients/learnco/pinkkitty.gif)
+![kitty](http://www.redhikari.com/clients/learnco/pinkkitty.GIF)
 
 
 
