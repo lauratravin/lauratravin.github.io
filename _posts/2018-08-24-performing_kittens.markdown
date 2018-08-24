@@ -34,11 +34,26 @@ And my CLI has this behavier.
 ![image3](http://www.redhikari.com/clients/learnco/Project3.jpg)
 
 
-The first approach was to get all the data scrapping the 
+The first approach was to get all the data scrapping them at the beginning.  Once I have the info it is to move throught the menu. But... yes there is a but...it takes some time to open 51 webpages for ruby. 
+It is not like you start the program and go to buy a coffee and then it will show the data when you return, but (again) 
+their is a naughty delay that is not a very USER - friendly.
 
 ![image4](http://www.redhikari.com/clients/learnco/Project4.jpg)
 
+For solve this, a second approach was done, some code changed and now they Breeds characteritic are being upload according to user's behavier. 
+
 ![image5](http://www.redhikari.com/clients/learnco/Project5.jpg)
+
+
+
+With this solution, I have 50% of chances of  user choosing a report (option 3 and 4) for fist time meaning that I will have the same naughty delay because I need to open 51 webpages to generate this information.
+
+But suppossing the user choose between 1 or 2 option first, these options would be filling and completing the class Breed. If after the user choose option  3 or 4 from the menu,  less websites are required to be open.
+
+You can find my code [here]https://github.com/lauratravin/CLIFP-Kitty/)  here and see how I implemented this.
+
+
+
 
 
 
