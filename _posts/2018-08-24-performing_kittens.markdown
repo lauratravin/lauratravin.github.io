@@ -54,7 +54,7 @@ You can find my code [here](https://github.com/lauratravin/CLIFP-Kitty/)  here a
 
 Follow my kittens @tituneskittens
 
-![kitty](<iframe src="https://giphy.com/embed/vhsNmFjuN4WDS" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-version-chatting-vhsNmFjuN4WDS">via GIPHY</a></p>)
+![kitty](https://media.giphy.com/media/vhsNmFjuN4WDS/giphy.gif)
 
 
 
