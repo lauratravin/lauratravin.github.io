@@ -20,7 +20,7 @@ I love SAP but I wanted to move to something more open source, web and related t
  
  
 
- ![cat_code](http://www.lauratravin.com/learnco/cat-learn-to-code.jpg)
+ ![cat_code](http://www.redhikari.com/clients/learnco/cat-learn-to-code.jpg)
 
 
 
