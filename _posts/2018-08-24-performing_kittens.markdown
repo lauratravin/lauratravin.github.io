@@ -44,6 +44,6 @@ But supposing the user choose between 1 or 2 option first, these options would b
 
 You can find my code [here](https://github.com/lauratravin/CLIFP-Kitty)  and see how I implemented my kitties.
 
-No kitten was harmed during the process and please remember to adopt or save a kitten no matter her/his breed. Follow Follow my kittens [@tituneskittens](http://www.instagram.com/tituneskittens)
+No kitten was harmed during the process and please remember to adopt or save a kitten no matter her/his breed. Follow my kittens [@tituneskittens](http://www.instagram.com/tituneskittens)
 
 ![kitty](http://www.redhikari.com/clients/learnco/pinkkitty.GIF)
