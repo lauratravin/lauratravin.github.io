@@ -12,7 +12,7 @@ I will try to make it easy to understand, not too much technicist view and fast 
 
 Since I am a visual designer I want to explain my project with images for make it more fun and easier.
 
-The site I scrapped is here .
+The site I scrapped is [here](http://http://www.vetstreet.com/cats/breeds) .
 
 The main page contains 50 different breeds, that means I have 51 webpage to scrap at the end.
 
@@ -20,8 +20,8 @@ The main page contains 50 different breeds, that means I have 51 webpage to scra
 
 I managed my model in this way. Just tree basics classes.
 
-* The scraper: this guy has the terrific work of giving me the data usigng his friends NOKOGIRI and OPEN-URI called gems.
-* The Breed: Breed is the class who let me to instanciate breed objects, save their name and web site initially. In a second phase (called method), she allows me to get the breed characteristics, its attributes, getters and setters are created dynamically.
+* The scraper: this guy has the terrific work of giving me the data using his friends NOKOGIRI and OPEN-URI called gems.
+* The Breed: Breed is the class who lets me to instanciate breed objects, save their name and web site initially. In a second phase (calling methods), she allows me to get the breed characteristics, its attributes, getters and setters which are created dynamically.
 * The CLI: and for last but not least important CLI (Command Line Interface) class, I think CLI has the hardest work here: deal with the “USER”.
 
 ![image2](http://www.redhikari.com/clients/learnco/Project2.jpg)
@@ -30,7 +30,7 @@ And my CLI has this behavior.
 
 ![image3](http://www.redhikari.com/clients/learnco/Project3.jpg)
 
-The first approach was to get all the data scrapping them at the beginning. Once I have the info it is to move through the menu. But… yes there is a but…it takes some time to open 51 webpages for ruby. It is not like you start the program and go to buy a coffee and then it will show the data when you return, but (again) their is a naughty delay that is not a very USER - friendly.
+The first approach was to scrap the data in the beginning, when the user run our hellokitty program. Once I collect the info, the menu is presented and you would be able to play with kittens info. But… yes there is a but…it takes some time to open 51 webpages for Ruby. It is not like you start the program and go to buy a coffee and then it will show the data when you return, but (again) their is a naughty delay that is not a very USER - friendly.
 
 ![image4](http://www.redhikari.com/clients/learnco/Project4.jpg)
 
