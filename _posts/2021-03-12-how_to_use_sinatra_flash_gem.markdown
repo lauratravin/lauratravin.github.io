@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How to use Sinatra  Flash Gem"
-date:       2021-03-13 01:25:25 +0000
+date:       2021-03-12 20:25:25 -0500
 permalink:  how_to_use_sinatra_flash_gem
 ---
 
