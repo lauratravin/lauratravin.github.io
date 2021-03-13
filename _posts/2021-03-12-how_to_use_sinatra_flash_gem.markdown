@@ -25,9 +25,11 @@ Configuration:
 
 5. Additionally, if you are using Sinatra::Base add this line: register Sinatra::Flash
 
-6. Supposing in your validation you will add a message like this:
+6. You can use a message in a validation for example like here:
 
-          flash[:message] = "This appointment does not belong to you."  
+
+ ![vaccine](http://www.redhikari.com/clients/learnco/NYC-vaccine1.jpg)
+
 					
 7. In the erb view you will add something like this:
 
