@@ -31,12 +31,11 @@ Configuration:
 					
 7. In the erb view you will add something like this:
 
-      <%if flash[:message] %>
-                 <%= flash[:message] %> 
-     <% end %>				
+  ![img2](http://lauratravin.info/randomfiles/NYC-vaccine2.jpg)	
 		 
-8. You can add styles to the message. !
-9. 
+8. You can add styles to the message. 
+
+
 10. 
 	 
 
