@@ -27,9 +27,7 @@ Configuration:
 
 6. You can use a message in a validation for example like here:
 
-
- ![vaccine](http://www.redhikari.com/clients/learnco/NYC-vaccine1.jpg)
-
+![](http://lauratravin.info/randomfiles/NYC-vaccine1.jpg)
 					
 7. In the erb view you will add something like this:
 
@@ -40,6 +38,6 @@ Configuration:
 8. You can add styles to the message. !
 9. 
 10. 
-11.[](http://)		 
+	 
 
 
