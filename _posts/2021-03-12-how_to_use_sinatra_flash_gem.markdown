@@ -27,7 +27,7 @@ Configuration:
 
 6. You can use a message in a validation for example like here:
 
-![](http://lauratravin.info/randomfiles/NYC-vaccine1.jpg)
+![img1](http://lauratravin.info/randomfiles/NYC-vaccine1.jpg)
 					
 7. In the erb view you will add something like this:
 
