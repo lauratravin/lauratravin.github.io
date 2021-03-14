@@ -38,7 +38,7 @@ Configuration:
 
 9.-The gem comes with a helper to create styles, but as I undertood from the creator,  it does not work well on Rails.
 
-10.-How it can be helpfull from someone. 
+10.-How it can be helpful from someone. 
 
 
 
