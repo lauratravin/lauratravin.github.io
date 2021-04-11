@@ -21,6 +21,13 @@ Process description:
 * Create the helpers 
 
 
+![img1](https://www.redhikari.com/clients/learnco/Rails-blog-1.jpg)
+
+
+![img2](https://www.redhikari.com/clients/learnco/Rails-blog-2.jpg)
+
+
+
 
 
 
