@@ -14,7 +14,7 @@ At the moment it does not have the logic to knwo if the runner ran or not, but i
 
 Process description:
 * Describe the models, attributes and relationships (associations)
-* Create the flows and define what information whi
+* Create the flow and define what information we want to show and which data with need to create that information.
 * Create the migrations 
 * Create the controllers
 * Create the views
@@ -26,6 +26,17 @@ Process description:
 
 
 ![img2](https://www.redhikari.com/clients/learnco/Rails-blog-2.jpg)
+
+
+
+**Flows**
+
+1) Admin creates a Race.
+2) User signs up, then login, add a goal for 2021 and chooses a race to run.
+3) User runs the race and the race is closed. Admin update the race status checking date. Automatically, race's miles are discount from User's goals.
+4) Admin adds the race result. The Admin board/index page are updated with results.
+
+
 
 
 
