@@ -37,6 +37,10 @@ Process description:
 4) Admin adds the race result. The Admin board/index page are updated with results.
 
 
+**View definition
+**
+![img3](https://www.redhikari.com/clients/learnco/Rails-blog-3.jpg)
+
 
 
 
