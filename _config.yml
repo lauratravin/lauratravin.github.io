@@ -1,15 +1,14 @@
 # Site settings
-title: Lost Girl.
+author: Laura Travin
+title: This blog can fail, it is code.
 header-img: img/home-bg.png
 email: laura.travin@gmail.com
-copyright_name: lauratravin
+copyright_name: Laura Travin
 description: > # this means to ignore newlines until "baseurl:"
   Survival notes: keep motivation in coding.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lauratravin
-learn_profile: lauratravin
-email_username: laura.travin@gmail.com
 
 # Build settings
 markdown: kramdown
