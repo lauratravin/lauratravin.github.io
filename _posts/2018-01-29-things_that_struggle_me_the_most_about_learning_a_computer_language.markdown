@@ -1,28 +1,61 @@
 ---
 layout: post
-title:      "Things that struggle me the most about learning a computer language"
+title:      "Create a search field with JS + Rails"
 date:       2018-01-29 16:29:33 -0500
 permalink:  things_that_struggle_me_the_most_about_learning_a_computer_language
 ---
 
 
-Well, here it's me again trying to figure out how to write this blog thing. At the moment I only can see it like a kind of diary... my own programming binnacle.
 
-Today I m going to write about what really struggle my patience about learning to code and may be how I am dealing with it.
+Problem:
+User enter his/her passport into the input field and click the search button, if the user exist in the back end, user' name and surname must be return.
 
-1. Unable to understand the explanations.
-I know that english is not my native language and some texts or type of words can be difficult to understand for a foreign, but sometimes is not about the words per se, it is more related to  how the examples and explanations are described. I get used to read something and check on in other different sites, it is not like I am doubting about it says, it is about to find who explain better. Sometimes a good example can clarify better than a long text.
+Form details:
 
-2. The examples are not very clear or confused.
-This happens to me a lot, specially with languages where you have different ways to execute a command (ex Javascript), I wish there was a master cheatsheet with every possible way to write a command and you are sure that it is going to work in your local computer too.
-The only solution I found to this is to test everything a I read, take notes about it and compare different behaviors. 
 
-3. What works in a computer, doesn’t in other.
-This is really a headache and make me so many times wasted hours trying to discover why my local machine doesn’t behave like it is written it should. In my workbook I have to columns, one represent how to use Ruby in my terminal (local computer), other for how to use Ruby file execution in the IDE Framework. I still working how to deal with this point.
 
-I wonder if I am the only one…..
+ ![cat_code](http://www.redhikari.com/clients/learnco/PE1.jpg)
+ 
+ 
+ Since I am using classes and it is a webpage related to flights reservations, the class responsable for do the search will be the class named Passenger and the search will be done in the class method(static) searchPassengerByPassport.
+ 
+ The class that posses the control of the modal and the form is Flight. She will show the modal and all the form elements includen search event.
+ 
+In this code below, I obtain the search button and add an event listener. When the user clicks,  I obtenin the passport number, convert it into upper case and send it to the class Passenger to do the dirty work.
 
- ![cat_code](http://www.redhikari.com/clients/learnco/car2.jpg)
+ ![cat_code](http://www.redhikari.com/clients/learnco/PE2.jpg)
+ 
+ The class methot searchPassengerByPassport will reciebe the passport number in the variable term.
+ 
+ This method will user the window method name fecth to request to the back to search for this specific passenger.
+ 
+For the search I am going to use the tradition url that it's uses to get the list of all elements in Rails name as index route: 
+
+const passengersURL = 'http://127.0.0.1:3000/passengers'
+
+But in this case, I am goint to change the url with the parameter I want to search like this:
+
+
+ ![cat_code](http://www.redhikari.com/clients/learnco/PE3.jpg)
+ 
+ The rest of the fetch follow the typical construction, with a function to treat the object if it is found, where I assign the name and first name to the form and if it is not found I show a message to the user on the same form.
+ 
+ 
+ On the backend side, we need to modify the index route for passenger controller
+ 
+  ![cat_code](http://www.redhikari.com/clients/learnco/PE4.jpg)
+	
+	In this case there is a serializer but it work with it or without.
+	
+	
+
+ 
+
+
+ 
+ 
+ 
+
 
 
 
