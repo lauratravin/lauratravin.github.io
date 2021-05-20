@@ -41,11 +41,11 @@ But in this case, I am goint to change the url with the parameter I want to sear
  The rest of the fetch follow the typical construction, with a function to treat the object if it is found, where I assign the name and first name to the form and if it is not found I show a message to the user on the same form.
  
  
- On the backend side, we need to modify the index route for passenger controller
+ On the backend side, we need to modify the index route for passenger controller. 	In this case there is a serializer but it work with it or without.
  
   ![cat_code](http://www.redhikari.com/clients/learnco/PE4.jpg)
 	
-	In this case there is a serializer but it work with it or without.
+
 	
 	
 
