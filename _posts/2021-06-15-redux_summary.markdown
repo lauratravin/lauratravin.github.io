@@ -66,6 +66,10 @@ Redux is a library, which implements the idea of Flux but in quite a different w
 Reducer: Logic that decides how your data changes exist in pure functions. Application event is denoted as an Action, which is dispatched to the reducer
 Centralized store: Holds a state object that denotes the state of the entire app
 
+[img1](https://www.redhikari.com/clients/learnco/blog3.png)
+
+Redux is primarily associated with React, but it can work well with other libraries as well, including Vue.js, AngularJS, Ember, Backbone.js, Meteor, and Polymer.
+
 
 
 
